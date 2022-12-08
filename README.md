@@ -1,6 +1,8 @@
 # elixir-example-tactical-ddd
 
-**TODO: Add description**
+Simple project just showing:
+- how to implement several versions of repositories using polymorphism with elixir
+- how to divide application layers using DDD tactical patterns, remembering that DDD is much more than just tactical patterns, strategic patterns are much more important. 
 
 ## Installation
 
